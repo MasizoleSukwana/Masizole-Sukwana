@@ -1,9 +1,10 @@
 # Masizole-Sukwana
 Masizole Sukwana - Projects
-To run the project, the user needs to have a GitHub account
+This mini project is about displaying and printing the "Hello, World" greeting on the screen. The programming language used to display the greeting is Python and this mini project is for exploring how to use GitHub to write code, continuously update it and execute/debug it.
+To run the project, the user needs to have a GitHub account, which can be created on the URL: https://github.com/
 User needs to have access to the Repository/Project URL: https://github.com/MasizoleSukwana/Masizole-Sukwana.git
 After opening the Repo/Project URL, click the green "Code" button, open the dropdown arrow, and select CodeSpaces
 Click the Add/Create codespaces icon for an environment to be created in the cloud
 The CodeSpaces dev environment is prepared/set-up so that the user can run/execute the project
-After the environment is prepared/set-up, on the Terminal tab after this path: @MasizoleSukwana ➜ /workspaces/Masizole-Sukwana (main) $ type python hello.py then press the Enter button, results are on the screenshot uploaded below
+After the environment is prepared/set-up, on the Terminal tab, after this path: @MasizoleSukwana ➜ /workspaces/Masizole-Sukwana (main) $, user must type this code: python hello.py then press the Enter button, results are on the screenshot uploaded below
 ![image](https://github.com/user-attachments/assets/e2c444f5-da15-4f3c-a985-ba3248a24d8a)
